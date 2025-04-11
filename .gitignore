@@ -1,0 +1,5 @@
+/vidgist_backend/env
+/vidgist_backend/.env
+
+/vidgist_frontend/node_modules
+/vidgist_frontend/.env
